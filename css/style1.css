@@ -1,0 +1,19 @@
+ @import url('https://fonts.googleapis.com/css2?family=Open+Sans:300,600');
+ @import url('https://fonts.googleapis.com/css2?family=Open+Sans:300,600');
+body{
+    font-family:'Pridi';
+    /*font-family:"Open Sans',sans-serif;*/
+    /*font-weight:300;*/
+    /*background-color:palevioletred;*/
+
+}
+.textCenter{
+    text-align:center;
+ }
+ #u-textCenter{
+     text-align:center;
+ }
+ .navTitle{
+     color:var(--primary);
+     font-size:20px;
+ }
